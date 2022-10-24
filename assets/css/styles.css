@@ -9,7 +9,7 @@
 
 /*===== Colores =====*/
 :root{
-    --first-color: #8400ff;
+    --first-color: #645898;
     --white-color: #FAFAFF;
     --dark-color: #181818;
     --text-color: #919191;
@@ -80,7 +80,7 @@ img{
 
 /*========== Variables Dark theme ==========*/
 body.dark-theme{
-    --first-color: #8400ff;
+    --first-color: #766676;
     --white-color: #000000;
     --dark-color: #ffffff;
     --text-color: #666666;
